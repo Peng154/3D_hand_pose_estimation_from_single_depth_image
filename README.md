@@ -1,0 +1,2 @@
+# hand_pose_detect
+基于tensorflow框架的CNN卷积神经网络手部关节点位置检测demo
