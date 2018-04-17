@@ -24,6 +24,9 @@
 - Res_Encoder_Hands测试及手指关节点误差为7.5mm
 - CPM_Hands测试集上手指关节点平均误差仅为6.8mm ！！
 
+![pck result](https://raw.githubusercontent.com/Peng154/3D_hand_pose_estimation_from_single_depth_image/master/pck.png)
+![joint mean error](https://raw.githubusercontent.com/Peng154/3D_hand_pose_estimation_from_single_depth_image/master/joint_mean_error.png)
+
 ## 参考文献
 1. [DeepPrior++](https://github.com/moberweger/deep-prior-pp) （本项目部分代码参考此project）
 2. [CPM](https://github.com/timctho/convolutional-pose-machines-tensorflow) （本项目部分结构参考此project）
@@ -32,4 +35,3 @@
 - 需要预训练好的模型或者对本项目由疑惑可以联系本人。
 - 本项目在未经本人同意情况下，仅用于非商业用途！！！
 
-![Simulation Result](https://raw.githubusercontent.com/Peng154/real-time-path-planning-for-Simbad/master/rt_rrt_star.gif)
